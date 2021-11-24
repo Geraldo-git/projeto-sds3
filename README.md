@@ -1,4 +1,4 @@
-# Projeto-sds3
+# Projeto DScatalog (sds-3)
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Geraldo-git/projeto-sds3/blob/main/LICENSE)
 
 Sobre o projeto:
