@@ -8,15 +8,16 @@ https://geraldo-dsvendas.netlify.app/
 Apliacão full-stack que consiste em exibir a o percentual de vendas de cada colaborador da empresa através de dashboard dinâmico. Consiste de backend desenvolvida em Spring Boot e interface web (frontend) em React.
 
 
-Tecnologias:
-##Backend:
+# Tecnologias:
+
+## Backend:
 *Java
 *Springboot
 *JPA
 *Hibernate
 *Maven
 
-##Frontend:
+## Frontend:
 *HTML-CSS-JS
 *Typescript
 *RectJS
